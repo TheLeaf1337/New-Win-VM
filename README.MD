@@ -1,8 +1,10 @@
 # Create VM
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2FTheLeaf1337%2FNew-Win-VM%2Fedit%2Fmaster%2Fazuredeploy.json" target="_blank">
+   <img src="http://azuredeploy.net/deploybutton.png"/>
 
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgit.intra.protie.fi%2Fjere.lehtinen%2FAzure-demo-project%2Fedit%2Fmaster%2FVM%2Fazuredeploy.json" target="_blank">
-    <img src="http://azuredeploy.net/deploybutton.png"/>
+//<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgit.intra.protie.fi%2Fjere.lehtinen%2FAzure-demo-project%2Fedit%2Fmaster%2FVM%2Fazuredeploy.json" target="_blank">//
+  //  <img src="http://azuredeploy.net/deploybutton.png"/>//
 
     
 </a>
