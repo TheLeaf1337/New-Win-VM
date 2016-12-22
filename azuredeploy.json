@@ -25,15 +25,15 @@
     "type": "string",
     "defaultvalue": "2016-Datacenter",
     "allowedValues": [
-    2008-R2-SP1
-    2008-R2-SP1-BYOL
-    2012-Datacenter
-    2012-Datacenter-BYOL
-    2012-R2-Datacenter
-    2012-R2-Datacenter-BYOL
-    2016-Datacenter
-    2016-Datacenter-Server-Core
-    2016-Datacenter-with-Containers
+    "2008-R2-SP1"
+    "2008-R2-SP1-BYOL"
+    "2012-Datacenter"
+    "2012-Datacenter-BYOL"
+    "2012-R2-Datacenter"
+    "2012-R2-Datacenter-BYOL"
+    "2016-Datacenter"
+    "2016-Datacenter-Server-Core"
+    "2016-Datacenter-with-Containers"
 
     ],
     "metadata": {
